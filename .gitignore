@@ -1,0 +1,6 @@
+*.bin
+*.ld
+/Debug
+/.settings
+*.launch
+*.elf
